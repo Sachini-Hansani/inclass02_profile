@@ -1,17 +1,25 @@
-# inclass02_profile
+# In-class Assignment 02 - My Profile App
 
-A new Flutter project.
+This is a Flutter application developed for the Mobile Application Development module.
 
-## Getting Started
+## Project Description
 
-This project is a starting point for a Flutter application.
+The app displays a simple student profile screen similar to the given assignment UI. It includes a profile icon, name, email, points section, black app bar, and floating action button.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Profile screen UI
+- App bar with title
+- Profile avatar with check icon
+- Name, email, and points details
+- Floating action button
+
+## Student Details
+
+Name: Sachini Hansani  
+Module: Mobile Application Development
